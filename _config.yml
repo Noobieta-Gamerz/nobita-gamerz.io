@@ -3,6 +3,6 @@ title: Noobieta Gamers
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun , Youtube
 author: Noobieta
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/nobita-gamerz.github.io/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 future: true
