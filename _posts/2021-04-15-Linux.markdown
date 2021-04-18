@@ -1,0 +1,20 @@
+---
+title:  "Coba Coba!"
+subtitle: "The Fly!"
+author: "Wferr"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2021-04-15 12:12:12
+---
+
+### Dolor sit amet?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum no$
+
+### Aliquam suscipit.
+Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida n$
+
+Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec$
+
+Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praese$
+
+Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulv$
